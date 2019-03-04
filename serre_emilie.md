@@ -1,2 +1,1 @@
-Bonjour d'Emilie
-Et de Sylvain aussi
+Emilie Et Sylvain
