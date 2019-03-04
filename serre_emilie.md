@@ -1,2 +1,2 @@
-Bonjour, c'est Emilie
-Et puis aussi Sylvain A.
+Bonjour d'Emilie
+Et de Sylvain aussi
